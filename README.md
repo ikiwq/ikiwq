@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there, I am Christopher, aka iki 👋
+#### I am a high school student interested in Computer Science
+- I can code in C++, Python,  Javascript and SQL.
+- I can also use HTML and CSS.
+- I am currently working on small personal projects.
 
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
