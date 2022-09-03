@@ -1,5 +1,5 @@
 ### Hello there, I am Christopher, aka iki 👋
-#### I am a high school student interested in Computer Science
+#### I am a high school student studying Computer Science
 - I can code in C++, Python,  Javascript and SQL.
 - I can also use HTML and CSS.
 - I am currently working on small personal projects.
