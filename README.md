@@ -3,6 +3,8 @@
 - I can code in C++, Python,  Javascript,SQL, HTML and CSS.
 - I am currently working on small personal projects.
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=javascript,css,scss,html&theme=tokyonight)
+
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
