@@ -1,5 +1,5 @@
 ### Hello there, I am Christopher, aka iki 👋
-- I can code in C++, Python,  Javascript,SQL, HTML and CSS.
+- I can code in C++, Python, Java , SQL, HTML and CSS.
 - I am currently working on small personal projects.
 
 ### Come and see my portfolio! https://ikiwq.github.io/react-portfolio/
