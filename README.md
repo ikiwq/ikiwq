@@ -1,10 +1,9 @@
-### Hello there, I am Christopher, aka iki 👋
-- I can code in C++, Python, Java , SQL, HTML and CSS.
-- I am currently working on small personal projects.
+## Hello everyone, I am Christopher, aka iki! 👋
+ - I am an 18 years old Developer living in Italy. I am very passionate about anything that has to do with technology.
+ - I am currently working on small projects and web development stuff, but I also like other stuff, like game development.
+### Come and see my portfolio! https://ikiwq-portfolio.vercel.app/
 
-### Come and see my portfolio! https://ikiwq.github.io/react-portfolio/
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=css,scss,html&theme=tokyonight)
 
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
