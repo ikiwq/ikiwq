@@ -1,6 +1,11 @@
 ## Hello everyone, I am Christopher, aka iki! 👋
- - I am an 18 years old Developer living in Italy. I am very passionate about anything that has to do with technology.
- - I am currently working on small projects and web development stuff, but I also like other stuff, like game development.
+ I am an 18 years old Fullstack Developer living in Italy. I am very passionate about anything that has to do with technology; currently I am working on small projects and web development stuff. I also like other things, like game development or anything related to graphics.
+
+Furthermore, I can tell you some other things about me! My favourite language is C++, even tho I'm not using it that much. 
+At the moment, I am enjoying Javascript at its full potential, as I am working mainly on website building. I can also code in Java and Python. I kinda like languages with a verbose syntax, but Python was actually the language that introduced me to the more advanced programming world.
+
+Well, I like to learn new things every day (a LOT of new things) and I'm never gonna stop learning.
+
 ### Come and see my portfolio! https://ikiwq-portfolio.vercel.app/
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=css,scss,html&theme=tokyonight)
