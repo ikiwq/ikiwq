@@ -10,7 +10,7 @@ Well, I like to learn new things every day (a LOT of new things), and I'm never 
 ### 🧰Languages and tools
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,angular,rxjs,react,redux,spring,flask,nodejs,mysql,firebase,mongodb,nginx,linux,unity,tensorflow,git&theme=light)](https://skillicons.dev)
  
- 
+### Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=css,scss,html&theme=tokyonight)
  
 
