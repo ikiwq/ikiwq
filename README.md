@@ -1,5 +1,5 @@
 ## Hello everyone, I am Christopher, aka Iki! 👋
-I am an 18-year-old full-stack developer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working on small projects and web development stuff. I also like other things, like game development or anything related to graphics.
+I am an 19-year-old full-stack developer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working on small projects and web development stuff. I also like other things, like game development or anything related to graphics.
 
 I can tell you other things about me! My favorite (and first) language is C++, even though I'm not using it that much. At the moment, I am enjoying Javascript and Java at their full potential, as I am working mainly on full-stack website building. I can also code in Python. I kinda like languages with a verbose syntax, but Python was actually the language that introduced me to the more advanced programming world.
 
