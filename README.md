@@ -11,11 +11,6 @@ Well, I like to learn new things every day (a LOT of new things), and I'm never 
 
 ### 🧰Languages and tools
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,angular,rxjs,react,redux,spring,flask,nodejs,aws,mysql,firebase,mongodb,nginx,linux,unity,git&theme=light)](https://skillicons.dev)
- 
-### Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikiwq&hide=css,scss,html&theme=tokyonight)
- 
-
 
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
