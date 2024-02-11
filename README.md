@@ -10,7 +10,7 @@ Well, I like to learn new things every day (a LOT of new things), and I'm never 
 ### Come and see my portfolio! https://ikiwq-portfolio.vercel.app/
 
 ### 🧰Languages and tools
- [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,angular,rxjs,react,redux,spring,flask,nodejs,aws,mysql,firebase,mongodb,nginx,linux,unity,git&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,angular,rxjs,react,redux,spring,flask,nodejs,aws,kafka,mysql,firebase,mongodb,nginx,linux,unity,git&theme=light)](https://skillicons.dev)
 
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
