@@ -7,7 +7,7 @@ I kinda like languages with a verbose syntax, but Python was actually the langua
 
 Well, I like to learn new things every day (a LOT of new things), and I'm never going to stop learning.
 
-### Come and see my portfolio! https://ikiwq-portfolio.vercel.app/
+### Come and see my portfolio! https://portfolio.ikiwq.it/
 
 ### 🧰Languages and tools
  [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript,html,css,angular,rxjs,react,redux,spring,flask,nodejs,aws,kafka,mysql,firebase,mongodb,nginx,linux,unity,git&theme=light)](https://skillicons.dev)
