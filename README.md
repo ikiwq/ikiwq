@@ -1,5 +1,5 @@
 ## Hello everyone, I am Christopher, aka Ikiwq! 👋
-I am a 20-year-old backend developer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working on small projects and web development stuff. I also like other things, like game or graphics development.
+I am a 20-year-old dev living in Italy. I am very passionate about anything that has to do with technology; currently, I am working on small projects and web development stuff. I also like other things, like game or graphics development.
 
 I can tell you other things about me! My favorite (and first) language is C++, even though I'm not using it that much. For most of my career I worked with and Java, Spring and AWS and other tools, such as Kafka, Mysql and MongoDB. 
 
