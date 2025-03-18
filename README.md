@@ -3,7 +3,7 @@ I am a 20-year-old dev living in Italy. I am very passionate about anything that
 
 I can tell you other things about me! My favorite (and first) language is C++, even though I'm not using it that much. For most of my career I worked with and Java, Spring and AWS and other tools, such as Kafka, Mysql and MongoDB. 
 
-Currently I'm working on frontend and mobile development with Typescript, React and React Native. I can also code in Python, Go and Assembly with the NASM compiler.
+Currently I'm working on frontend and mobile development with Typescript, React and React Native. I can also code in Python and Assembly with the NASM compiler.
 
 I kinda like languages with a verbose syntax, but Python was actually the language that introduced me to the more advanced programming world.
 
