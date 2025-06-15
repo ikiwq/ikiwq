@@ -1,11 +1,9 @@
 ## Hello everyone, I am Christopher, aka Ikiwq! 👋
-I am a 20-year-old dev living in Italy. I am very passionate about anything that has to do with technology; currently, I am working on small projects and web development stuff. I also like other things, like game or graphics development.
+I am a 20-year-old software engineer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working at Humans.tech as a Backend Engineer, bulding stuff with Typescript and other cool things.
 
 I can tell you other things about me! My favorite (and first) language is C++, even though I'm not using it that much. For most of my career I worked with and Java, Spring and AWS and other tools, such as Kafka, Mysql and MongoDB. 
 
-Currently I'm working on frontend and mobile development with Typescript, React and React Native. I can also code in Python and Assembly with the NASM compiler.
-
-I kinda like languages with a verbose syntax, but Python was actually the language that introduced me to the more advanced programming world.
+I also worked for some time as a frontend and mobile development with Typescript, React and React Native. Sometimes I like to build little projects with these. I can also code in Python and Assembly with the NASM compiler.
 
 I love to learn new things and getting through mind-boggling problems every day.
 
