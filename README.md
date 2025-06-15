@@ -10,7 +10,7 @@ I love to learn new things and getting through mind-boggling problems every day.
 ### Come and see my portfolio! https://portfolio.ikiwq.it/
 
 ### 🧰Languages and tools
- [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,mongodb,javascript,typescript,adonis,nodejs,react,redux,python,c,linux,nginx,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,mongodb,javascript,typescript,adonis,nodejs,python,c,linux,nginx,git)](https://skillicons.dev)
  
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
