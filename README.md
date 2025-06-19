@@ -1,5 +1,5 @@
 ## Hello everyone, I am Christopher, aka Ikiwq! 👋
-I am a 20-year-old software engineer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working at Humans.tech as a Backend Engineer, bulding stuff with Typescript and other cool things.
+I am a 21-year-old software engineer living in Italy. I am very passionate about anything that has to do with technology; currently, I am working at Humans.tech as a Backend Engineer, bulding stuff with Typescript and other cool things.
 
 I can tell you other things about me! My favorite (and first) language is C++, even though I'm not using it that much. For most of my career I worked with and Java, Spring and AWS and other tools, such as Kafka, Mysql and MongoDB. 
 
