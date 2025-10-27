@@ -7,8 +7,6 @@ I also worked for some time as a frontend and mobile development with Typescript
 
 I love to learn new things and getting through mind-boggling problems every day.
 
-### Take a look at my portfolio! https://portfolio.ikiwq.it/
-
 ### 🧰Languages and tools
  [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,mongodb,javascript,typescript,adonis,nodejs,python,c,linux,nginx,git)](https://skillicons.dev)
  
