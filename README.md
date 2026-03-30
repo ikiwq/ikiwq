@@ -8,7 +8,7 @@ I also worked for some time as a frontend and mobile development with Typescript
 I love to learn new things and getting through mind-boggling problems every day.
 
 ### 🧰Languages and tools
- [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,typescript,fastify,nodejs,c,linux,nginx,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,typescript,nodejs,c,linux,nginx,git)](https://skillicons.dev)
  
 <!--
 **ikiwq/ikiwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
